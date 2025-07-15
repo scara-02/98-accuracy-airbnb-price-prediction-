@@ -11,7 +11,7 @@ since the dataset is of 50 mb. So , it is compressed and kept as train.7z
 Data cleaning & preprocessing
 Null value handling
 Label Encoding for categorical variables
-Skewness correction using PowerTransformer (Box-Cox)
+Skewness correction using PowerTransformer (yeo-)
 Exploratory Data Analysis (EDA)
 Feature importance using correlation & plots
 Model training using XGBoostRegressor
